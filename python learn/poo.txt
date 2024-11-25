@@ -1,0 +1,7 @@
+-Avantage POO:
+modularite:les objets forment des modules compacts regroupant des donnees 
+abstraction:les entites objets de la poo sont proches de celles du monde reel 
+reutilisabilite:facilite de la maintenance et amelioration de la productivite
+
+-les classes est la description d'un ensemble d'objets ayant une structure de donnee commune
+contient un nom et composant statique les attributs et composant dynamique les methodes
